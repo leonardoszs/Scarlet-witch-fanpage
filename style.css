@@ -1,0 +1,44 @@
+    *{
+      margin: 0;
+      padding: 0;
+    }
+    
+    .cabecalho{
+       background-color:#690015 ;
+       color: rgb(214, 90, 90);
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+       padding: 24px 0;
+}
+
+.cabecalho-imagem{
+   width: 25%;
+}
+
+ .cabecalho-lista-item{
+   display: inline-block;
+   margin: 0 16px;
+   font-size: 24px;
+ }
+
+ .wanda-imagem{
+  width: 25%;
+ }
+
+.Quem-é{
+   background-image: linear-gradient(#690015, #ff0000);
+   color: #ff8484;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 24px 0;
+}
+
+.Wanda-div-citação{
+   width: 35%;
+}
+
+.Quem-é-titulo{
+ padding: 24px 0;
+}
